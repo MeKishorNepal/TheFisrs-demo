@@ -1,3 +1,3 @@
 # TheFisrs-demo
 <br>
-Auther:Kishor Nepal
+Auther:Kishor Nepal(BCA)
